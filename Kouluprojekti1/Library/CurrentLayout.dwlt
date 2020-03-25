@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -45,7 +45,7 @@ MonoBehaviour:
     y: 0
     width: 2560
     height: 1357
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 498}
   m_MaxSize: {x: 14002, y: 14048}
   vertical: 0
-  controlID: 3022
+  controlID: 114
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 3023
+  controlID: 115
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 224}
   m_MaxSize: {x: 8004, y: 4024}
   vertical: 0
-  controlID: 3024
+  controlID: 116
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -309,10 +309,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -1282
-    m_HBaseRangeMax: 1282
-    m_VBaseRangeMin: -635.5
-    m_VBaseRangeMax: 635.5
+    m_HBaseRangeMin: -977.5
+    m_HBaseRangeMax: 977.5
+    m_VBaseRangeMin: -494.5
+    m_VBaseRangeMax: 494.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -330,25 +330,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 2564
-      height: 1271
+      width: 1955
+      height: 989
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 1282, y: 635.5}
+    m_Translation: {x: 977.5, y: 494.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1282
-      y: -635.5
-      width: 2564
-      height: 1271
+      x: -977.5
+      y: -494.5
+      width: 1955
+      height: 989
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 2564, y: 1288}
+  m_LastWindowPixelSize: {x: 1955, y: 1006}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000101
@@ -382,9 +382,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: dc6effff
-      m_LastClickedID: -37156
-      m_ExpandedIDs: c680ffffa688ffff88fbffffd6fbffffe01800006e190000d8190000566b0000
+      m_SelectedIDs: 4c1c0000
+      m_LastClickedID: 7244
+      m_ExpandedIDs: d6fbffff881c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -439,9 +439,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -13.671801, y: 1.7621934, z: 5.0406423}
+    m_Target: {x: -6.4666276, y: 1.6494659, z: 8.512209}
     speed: 2
-    m_Value: {x: -13.671801, y: 1.7621934, z: 5.0406423}
+    m_Value: {x: -6.4666276, y: 1.6494659, z: 8.512209}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -469,9 +469,9 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.10518753, y: 0.35434175, z: -0.040149987, w: -0.92831326}
+    m_Target: {x: 0.09523295, y: 0.5913547, z: -0.070604004, w: 0.7976499}
     speed: 2
-    m_Value: {x: -0.10518753, y: 0.35434175, z: -0.040149987, w: -0.92831326}
+    m_Value: {x: 0.09523295, y: 0.5913547, z: -0.070604004, w: 0.7976499}
   m_Size:
     m_Target: 10.481933
     speed: 2
@@ -551,20 +551,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/PolygonalMind/LowPolyOffice/Props/Materials
+    - Assets/PolygonalMind/LowPolyOffice/Props
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/PolygonalMind/LowPolyOffice/Props/Materials
+  - Assets/PolygonalMind/LowPolyOffice/Props
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Robin\Desktop\unity\Unity Projektit\Udemypsk\Kouluprojekti1
+  m_LastProjectPath: C:\Users\Robin\Documents\GitHub\Kouluprojekti\Kouluprojekti1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4c600000
-    m_LastClickedID: 24652
-    m_ExpandedIDs: 00000000620b00004e0f0000a20f0000b416000052600000
+    m_SelectedIDs: 780e0000
+    m_LastClickedID: 3704
+    m_ExpandedIDs: 00000000640b0000580f0000cc10000056190000501a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -592,7 +592,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000620b0000a20f0000b4160000386000003a60000052600000
+    m_ExpandedIDs: 00000000640b000058100000cc10000056190000501a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -619,7 +619,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000056bb000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -644,7 +644,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 80}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 321
 --- !u!114 &17
