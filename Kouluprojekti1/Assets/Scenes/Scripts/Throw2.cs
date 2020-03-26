@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Throw2 : MonoBehaviour
 {
-    float throwForce = 2000;
+    float throwForce = 1000;
     Vector3 objectPos;
     float distance;
 
