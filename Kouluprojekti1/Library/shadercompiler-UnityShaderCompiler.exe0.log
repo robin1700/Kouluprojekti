@@ -1,5 +1,10 @@
 Base path: C:/Program Files/Unity/Hub/Editor/2018.4.19f1/Editor/Data
 Cmd: initializeCompiler
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 Cmd: preprocess
   insize=1459 outsize=461 ok=1
 <<<<<<< Updated upstream
@@ -526,4 +531,8 @@ Cmd: preprocess
   insize=1371 outsize=372 ok=1
 Cmd: preprocess
   insize=920 outsize=1161 ok=1
+>>>>>>> Stashed changes
+<<<<<<< Updated upstream
+=======
+>>>>>>> juuso
 >>>>>>> Stashed changes
