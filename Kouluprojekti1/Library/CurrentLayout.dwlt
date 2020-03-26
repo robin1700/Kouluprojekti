@@ -140,7 +140,15 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
+<<<<<<< HEAD
   controlID: 117
+=======
+<<<<<<< Updated upstream
+  controlID: 25
+=======
+  controlID: 13
+>>>>>>> Stashed changes
+>>>>>>> Robin
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +173,15 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 224}
   m_MaxSize: {x: 8004, y: 4024}
   vertical: 0
+<<<<<<< HEAD
   controlID: 118
+=======
+<<<<<<< Updated upstream
+  controlID: 26
+=======
+  controlID: 14
+>>>>>>> Stashed changes
+>>>>>>> Robin
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -383,9 +399,21 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: eef9ffff
       m_LastClickedID: -1554
       m_ExpandedIDs: defbffff
+=======
+<<<<<<< Updated upstream
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: be18ffff
+=======
+      m_SelectedIDs: f4f9ffff
+      m_LastClickedID: -1548
+      m_ExpandedIDs: defbffff041c0000
+>>>>>>> Stashed changes
+>>>>>>> Robin
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -563,9 +591,21 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 660b0000
     m_LastClickedID: 2918
     m_ExpandedIDs: 00000000660b0000340f000096100000d0180000c21900002e3a0000
+=======
+<<<<<<< Updated upstream
+    m_SelectedIDs: 308a0000
+    m_LastClickedID: 35376
+    m_ExpandedIDs: 00000000308a00003e8b0000ce8b0000908d00009a8e0000dc8e0000
+=======
+    m_SelectedIDs: 660b0000
+    m_LastClickedID: 2918
+    m_ExpandedIDs: 00000000660b0000340f000096100000d0180000c2190000303a0000
+>>>>>>> Stashed changes
+>>>>>>> Robin
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -593,7 +633,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000660b0000340f000096100000d0180000c21900002e3a0000
+=======
+<<<<<<< Updated upstream
+    m_ExpandedIDs: 00000000308a00003e8b0000ce8b00009a8e0000dc8e0000
+=======
+    m_ExpandedIDs: 00000000660b0000340f000096100000d0180000c2190000303a0000
+>>>>>>> Stashed changes
+>>>>>>> Robin
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
